@@ -1,6 +1,4 @@
-Here’s a clean and professional `README.md` for your **StackUp** project:
 
----
 
 ```markdown
 # 🚀 StackUp - Cloud Code Deployment Platform
